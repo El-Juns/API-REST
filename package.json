@@ -1,0 +1,23 @@
+{
+  "name": "academic-api",
+  "version": "1.0.0",
+  "description": "Dispositivos moviles trabajo clase",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "academic",
+    "rest",
+    "api",
+    "dispositivos",
+    "tecnologicos"
+  ],
+  "author": "El-Juns",
+  "license": "ISC",
+  "dependencies": {
+    "config": "^3.3.7",
+    "express": "^4.17.3",
+    "mongoose": "^6.2.1"
+  }
+}

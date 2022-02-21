@@ -1,0 +1,17 @@
+{
+    "db-connections": {
+        "mongodb": {
+            "host": "cluster0.4jk9z.mongodb.net",
+            "user": "acad_rest_api_user",
+            "password": "Eljuns11",
+            "dbname": "DispositivosTech"
+        }
+    },
+
+    "secretkeys": {
+        "cryptojs": "jsA5t2@tfhD",
+        "jwt": "ABC@2020*"
+    },
+    "server-port": 3000,
+    "sessionTime": 3600
+}
